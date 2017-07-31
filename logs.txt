@@ -1,0 +1,236 @@
+2016-08-02 16:59:20 [main      ]- INFO  - Starting application..
+2016-08-02 16:59:20 [main      ]- INFO  - Refreshing data
+2016-08-02 16:59:20 [main      ]- INFO  - Getting data from the net
+2016-08-02 16:59:20 [main      ]- INFO  - Parsing XML file
+2016-08-02 16:59:21 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-02 16:59:22 [main      ]- INFO  - Refreshing data
+2016-08-02 16:59:22 [main      ]- INFO  - Getting data from the net
+2016-08-02 16:59:22 [main      ]- INFO  - Parsing XML file
+2016-08-02 16:59:22 [main      ]- INFO  - Updating Currency table
+2016-08-02 16:59:24 [WindowGUI ]- INFO  - Reset has been made
+2016-08-02 16:59:25 [WindowGUI ]- INFO  - Closing application..
+
+2016-08-02 18:35:27 [main      ]- INFO  - Starting application..
+2016-08-02 18:35:27 [main      ]- INFO  - Refreshing data
+2016-08-02 18:35:27 [main      ]- INFO  - Getting data from the net
+2016-08-02 18:35:28 [main      ]- ERROR - There was a problem connecting to server
+2016-08-02 18:35:28 [main      ]- INFO  - Parsing XML file
+2016-08-02 18:35:29 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-02 18:35:34 [WindowGUI ]- INFO  - Closing application..
+
+2016-08-02 18:35:36 [main      ]- INFO  - Starting application..
+2016-08-02 18:35:36 [main      ]- INFO  - Refreshing data
+2016-08-02 18:35:36 [main      ]- INFO  - Getting data from the net
+2016-08-02 18:35:37 [main      ]- ERROR - There was a problem connecting to server
+2016-08-02 18:35:37 [main      ]- INFO  - Parsing XML file
+2016-08-02 18:35:37 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-02 18:35:49 [main      ]- INFO  - Starting application..
+2016-08-02 18:35:49 [main      ]- INFO  - Refreshing data
+2016-08-02 18:35:49 [main      ]- INFO  - Getting data from the net
+2016-08-02 18:35:49 [main      ]- INFO  - Parsing XML file
+2016-08-02 18:35:49 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-02 18:35:52 [WindowGUI ]- INFO  - Closing application..
+
+2016-08-02 19:17:40 [main      ]- INFO  - Starting application..
+2016-08-02 19:17:40 [main      ]- INFO  - Refreshing data
+2016-08-02 19:17:40 [main      ]- INFO  - Getting data from the net
+2016-08-02 19:17:40 [main      ]- INFO  - Parsing XML file
+2016-08-02 19:17:41 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-02 19:18:10 [main      ]- INFO  - Refreshing data
+2016-08-02 19:18:10 [main      ]- INFO  - Getting data from the net
+2016-08-02 19:18:10 [main      ]- INFO  - Parsing XML file
+2016-08-02 19:18:10 [main      ]- INFO  - Updating Currency table
+2016-08-02 19:18:22 [WindowGUI ]- INFO  - Closing application..
+
+2016-08-02 19:19:42 [main      ]- INFO  - Starting application..
+2016-08-02 19:19:42 [main      ]- INFO  - Refreshing data
+2016-08-02 19:19:42 [main      ]- INFO  - Getting data from the net
+2016-08-02 19:19:42 [main      ]- INFO  - Parsing XML file
+2016-08-02 19:19:42 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-02 19:19:47 [WindowGUI ]- INFO  - Closing application..
+
+2016-08-02 19:21:57 [main      ]- INFO  - Starting application..
+2016-08-02 19:21:57 [main      ]- INFO  - Refreshing data
+2016-08-02 19:21:57 [main      ]- INFO  - Getting data from the net
+2016-08-02 19:21:57 [main      ]- INFO  - Parsing XML file
+2016-08-02 19:21:58 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-02 19:22:10 [WindowGUI ]- INFO  - Closing application..
+
+2016-08-24 03:11:39 [main      ]- INFO  - Starting application..
+2016-08-24 03:11:39 [main      ]- INFO  - Refreshing data
+2016-08-24 03:11:39 [main      ]- INFO  - Getting data from the net
+2016-08-24 03:11:39 [main      ]- INFO  - Parsing XML file
+2016-08-24 03:11:40 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-24 03:11:52 [main      ]- INFO  - Refreshing data
+2016-08-24 03:11:52 [main      ]- INFO  - Getting data from the net
+2016-08-24 03:11:52 [main      ]- INFO  - Parsing XML file
+2016-08-24 03:11:52 [main      ]- INFO  - Updating Currency table
+2016-08-24 03:12:05 [WindowGUI ]- INFO  - Reset has been made
+2016-08-24 03:12:09 [main      ]- INFO  - Refreshing data
+2016-08-24 03:12:09 [main      ]- INFO  - Getting data from the net
+2016-08-24 03:12:09 [main      ]- INFO  - Parsing XML file
+2016-08-24 03:12:09 [main      ]- INFO  - Updating Currency table
+2016-08-24 03:12:32 [WindowGUI ]- INFO  - Conversion has been made
+2016-08-24 03:12:39 [main      ]- INFO  - Refreshing data
+2016-08-24 03:12:39 [main      ]- INFO  - Getting data from the net
+2016-08-24 03:12:39 [main      ]- INFO  - Parsing XML file
+2016-08-24 03:12:39 [main      ]- INFO  - Updating Currency table
+2016-08-24 03:12:41 [WindowGUI ]- INFO  - Closing application..
+
+2016-08-24 03:16:20 [main      ]- INFO  - Starting application..
+2016-08-24 03:16:20 [main      ]- INFO  - Refreshing data
+2016-08-24 03:16:20 [main      ]- INFO  - Getting data from the net
+2016-08-24 03:16:20 [main      ]- INFO  - Parsing XML file
+2016-08-24 03:16:21 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-24 03:16:31 [WindowGUI ]- INFO  - Conversion has been made
+2016-08-24 03:16:34 [WindowGUI ]- INFO  - Conversion has been made
+2016-08-24 03:16:37 [WindowGUI ]- INFO  - Conversion has been made
+2016-08-24 03:16:50 [main      ]- INFO  - Refreshing data
+2016-08-24 03:16:50 [main      ]- INFO  - Getting data from the net
+2016-08-24 03:16:50 [main      ]- INFO  - Parsing XML file
+2016-08-24 03:16:50 [main      ]- INFO  - Updating Currency table
+2016-08-24 03:16:59 [WindowGUI ]- INFO  - Closing application..
+
+2016-08-24 14:37:07 [main      ]- INFO  - Starting application..
+2016-08-24 14:37:07 [main      ]- INFO  - Refreshing data
+2016-08-24 14:37:07 [main      ]- INFO  - Getting data from the net
+2016-08-24 14:37:08 [main      ]- INFO  - Parsing XML file
+2016-08-24 14:37:08 [WindowGUI ]- INFO  - Creating Currency table
+2016-08-24 14:37:14 [WindowGUI ]- INFO  - Conversion has been made
+2016-08-24 14:37:33 [WindowGUI ]- INFO  - Closing application..
+
+2016-11-11 22:24:06 [main      ]- INFO  - Starting application..
+2016-11-11 22:24:06 [main      ]- INFO  - Refreshing data
+2016-11-11 22:24:06 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:24:06 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:24:07 [WindowGUI ]- FATAL - There was a problem initializing the GUI
+2016-11-11 22:24:11 [main      ]- INFO  - Starting application..
+2016-11-11 22:24:11 [main      ]- INFO  - Refreshing data
+2016-11-11 22:24:11 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:24:11 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:24:12 [WindowGUI ]- FATAL - There was a problem initializing the GUI
+2016-11-11 22:24:14 [main      ]- INFO  - Starting application..
+2016-11-11 22:24:14 [main      ]- INFO  - Refreshing data
+2016-11-11 22:24:14 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:24:14 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:24:14 [WindowGUI ]- FATAL - There was a problem initializing the GUI
+2016-11-11 22:24:36 [main      ]- INFO  - Refreshing data
+2016-11-11 22:24:36 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:24:37 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:24:44 [main      ]- INFO  - Refreshing data
+2016-11-11 22:24:44 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:24:44 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:25:07 [main      ]- INFO  - Refreshing data
+2016-11-11 22:25:07 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:25:07 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:25:14 [main      ]- INFO  - Refreshing data
+2016-11-11 22:25:14 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:25:14 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:25:37 [main      ]- INFO  - Refreshing data
+2016-11-11 22:25:37 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:25:37 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:25:44 [main      ]- INFO  - Refreshing data
+2016-11-11 22:25:44 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:25:44 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:26:07 [main      ]- INFO  - Refreshing data
+2016-11-11 22:26:07 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:26:07 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:26:14 [main      ]- INFO  - Refreshing data
+2016-11-11 22:26:14 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:26:15 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:26:37 [main      ]- INFO  - Refreshing data
+2016-11-11 22:26:37 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:26:37 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:26:45 [main      ]- INFO  - Refreshing data
+2016-11-11 22:26:45 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:26:45 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:27:07 [main      ]- INFO  - Refreshing data
+2016-11-11 22:27:07 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:27:07 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:27:15 [main      ]- INFO  - Refreshing data
+2016-11-11 22:27:15 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:27:15 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:27:37 [main      ]- INFO  - Refreshing data
+2016-11-11 22:27:37 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:27:37 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:27:45 [main      ]- INFO  - Refreshing data
+2016-11-11 22:27:45 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:27:45 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:28:07 [main      ]- INFO  - Refreshing data
+2016-11-11 22:28:07 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:28:07 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:28:15 [main      ]- INFO  - Refreshing data
+2016-11-11 22:28:15 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:28:15 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:28:37 [main      ]- INFO  - Refreshing data
+2016-11-11 22:28:37 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:28:37 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:28:45 [main      ]- INFO  - Refreshing data
+2016-11-11 22:28:45 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:28:45 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:29:07 [main      ]- INFO  - Refreshing data
+2016-11-11 22:29:07 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:29:07 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:29:15 [main      ]- INFO  - Refreshing data
+2016-11-11 22:29:15 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:29:15 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:29:37 [main      ]- INFO  - Refreshing data
+2016-11-11 22:29:37 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:29:37 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:29:45 [main      ]- INFO  - Refreshing data
+2016-11-11 22:29:45 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:29:45 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:30:07 [main      ]- INFO  - Refreshing data
+2016-11-11 22:30:07 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:30:08 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:30:15 [main      ]- INFO  - Refreshing data
+2016-11-11 22:30:15 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:30:15 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:30:38 [main      ]- INFO  - Refreshing data
+2016-11-11 22:30:38 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:30:38 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:30:45 [main      ]- INFO  - Refreshing data
+2016-11-11 22:30:45 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:30:45 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:31:08 [main      ]- INFO  - Refreshing data
+2016-11-11 22:31:08 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:31:08 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:31:15 [main      ]- INFO  - Refreshing data
+2016-11-11 22:31:15 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:31:16 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:31:38 [main      ]- INFO  - Refreshing data
+2016-11-11 22:31:38 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:31:38 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:31:46 [main      ]- INFO  - Refreshing data
+2016-11-11 22:31:46 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:31:46 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:32:08 [main      ]- INFO  - Refreshing data
+2016-11-11 22:32:08 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:32:08 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:32:16 [main      ]- INFO  - Refreshing data
+2016-11-11 22:32:16 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:32:16 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:32:38 [main      ]- INFO  - Refreshing data
+2016-11-11 22:32:38 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:32:38 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:32:46 [main      ]- INFO  - Refreshing data
+2016-11-11 22:32:46 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:32:46 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:33:04 [main      ]- INFO  - Starting application..
+2016-11-11 22:33:04 [main      ]- INFO  - Refreshing data
+2016-11-11 22:33:04 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:33:06 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:33:06 [WindowGUI ]- INFO  - Creating Currency table
+2016-11-11 22:33:08 [main      ]- INFO  - Refreshing data
+2016-11-11 22:33:08 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:33:08 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:33:13 [WindowGUI ]- INFO  - Reset has been made
+2016-11-11 22:33:16 [main      ]- INFO  - Refreshing data
+2016-11-11 22:33:16 [main      ]- INFO  - Getting data from the net
+2016-11-11 22:33:16 [main      ]- INFO  - Parsing XML file
+2016-11-11 22:33:18 [WindowGUI ]- INFO  - Conversion has been made
+2016-11-11 22:33:21 [WindowGUI ]- INFO  - Conversion has been made
+2016-11-11 22:33:25 [WindowGUI ]- INFO  - Conversion has been made
+2016-11-11 22:33:28 [WindowGUI ]- INFO  - Conversion has been made
+2016-11-11 22:33:30 [WindowGUI ]- INFO  - Closing application..
+
